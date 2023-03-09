@@ -1,0 +1,10 @@
+Patul lui Procust,Camil Petrescu,beletristica,97860,Agora,27.00
+Maitreyi,Mircea Eliade,beletristica,97897,Cartex,17.10
+La tiganci,Mircea Eliade,beletristica,97387,Cartex,20.90
+Cardiologie clinica,Eduard Apetrei,medicina,43180,Editura Medicala Callisto,242.50
+Atlas de Anatomie Veterinara,Stanley Done,medicina,43401,Editura Medicala Callisto,291
+Mama si copilul,A.J.R. Waterston,dezvoltarePersonala,429217,Litera,112.43
+Cand corpul spune nu,Gabor Mate,dezvoltarePersonala,9706,Curtea Veche,36
+Istoria Americii,Winston Churchill,istorie,65071,Orizonturi,40.50
+Istoria intunecata a Rusiei,Michael Kerrigan,istorie,75982,ALL,119.92
+Imparatul Mustelor,William Golding,beletristica,12345,Humanitas Fiction,29
